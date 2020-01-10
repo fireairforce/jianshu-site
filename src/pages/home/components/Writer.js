@@ -4,7 +4,7 @@ import {
     WriterItem,
     // List
 } from '../style';
-import {connect} from 'react-redux';
+import { connect } from 'react-redux';
 
 class Writer extends PureComponent{
 
